@@ -127,3 +127,5 @@
     git checkout (branch name)
 
 *где (branch name) - имя ветки, на которую переходим.
+
+## Работа с логами
